@@ -13,6 +13,20 @@
 	
 }
 
+#div {
+	float:left;
+	display:block;
+	color:blue;
+	background-color:brown;
+	padding:0px 20px 0px 20px;
+	height:100px;
+	width:320px;
+	font-family:cursive;
+	position:relative;
+	
+}
+
+
 h1 {
 	color:blue;
 	background-color:grey;
