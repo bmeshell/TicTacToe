@@ -227,3 +227,25 @@ img {
 	width:50px;
 
 }
+
+#p1image {
+
+	position:absolute;
+	left:180px;
+	top:290px;
+	display:block;
+	height:50px;
+	width:50px;
+
+}
+
+#p2image {
+
+	position:absolute;
+	left:180px;
+	top:395px;
+	display:block;
+	height:40px;
+	width:40px;
+
+}
