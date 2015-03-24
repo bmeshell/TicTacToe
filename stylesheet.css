@@ -1,9 +1,14 @@
 
+body {
+    background-color: lime;
+}
+
+
 h1 {
 	float:left;
 	display:block;
 	color:blue;
-	background-color:brown;
+	background-color:lime;
 	padding:0px 20px 0px 20px;
 	height:100px;
 	width:320px;
@@ -17,7 +22,7 @@ h2 {
 	float:left;
 	display:block;
 	color:blue;
-	background-color:brown;
+	background-color:lime;
 	padding:0px 20px 0px 20px;
 	height:100px;
 	width:320px;
@@ -31,7 +36,7 @@ h3 {
 	float:left;
 	display:block;
 	color:blue;
-	background-color:brown;
+	background-color:lime;
 	padding:0px 20px 0px 20px;
 	height:100px;
 	width:320px;
@@ -45,7 +50,7 @@ li {
 	float:left;
 	display:block;
 	color:blue;
-	background-color:brown;
+	background-color:lime;
 	padding:0px 20px 0px 20px;
 	height:100px;
 	width:320px;
